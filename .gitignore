@@ -1,0 +1,6 @@
+*.pyc
+_pycache_
+sondenv
+db.sqlite3
+/static
+.ds_Store
